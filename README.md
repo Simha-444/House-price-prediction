@@ -37,9 +37,13 @@ Predicting house prices using advanced machine learning algorithms, exploratory 
 
 ---
 
-## 📊 Sample Dashboard
+## 📊 Exploratory Data Analysis
 
-![Power BI Screenshot](images/powerbi_dashboard.png)
+![Binary Data Visualization ](![image](https://github.com/user-attachments/assets/c714a40c-8a55-45f9-ab74-744d6fd079b1)
+)
+![ordinal Data visualization ](https://github.com/user-attachments/assets/b023271f-3e9a-4d12-868f-95b7606a65de)
+![correlation Matrix](https://github.com/user-attachments/assets/a1ee6653-2b15-4327-8a93-bc8a2b351b87)
+
 
 > 📌 *Includes drill-downs by region, price band, and property size*
 
